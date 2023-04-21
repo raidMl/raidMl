@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm raid melizi</h1>
 <h3 align="center">Full stack web developer</h3>
 
@@ -20,9 +18,10 @@
 - 💬 Ask me about **react,node,redux,js**
 
 - 📫 How to reach me **raidreus.22@gmail.com**
+![image](https://user-images.githubusercontent.com/86850698/233697799-c17635e7-e947-419a-8978-b29cff73df40.png)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1szNTHq-HcnnXKjRyBeLwD-zsQrXT0BtZ/view?usp=share_link](https://drive.google.com/file/d/1szNTHq-HcnnXKjRyBeLwD-zsQrXT0BtZ/view?usp=share_link)
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2MYoq2R9dS0UjbBSAL2sTz&ust=1682184052689000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjF_Ym-u_4CFQAAAAAdAAAAABAE
+
 - ⚡ quote **look up to the stars not down at your feets**
 
 ### Blogs posts
