@@ -18,7 +18,10 @@
 - 💬 Ask me about **react,node,redux,js**
 
 - 📫 How to reach me **raidreus.22@gmail.com**
+- 📫 How to reach me **raid.melizi1382@etu.univ-setif.dz**
+ <div style="width:100%">
 ![image](https://user-images.githubusercontent.com/86850698/233697799-c17635e7-e947-419a-8978-b29cff73df40.png)
+ </div>
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1UUzIqtcvIHR_rB0H61B-uqSWHA18lUvm/view
 
