@@ -20,7 +20,7 @@
 - 📫 How to reach me **raidreus.22@gmail.com**
 ![image](https://user-images.githubusercontent.com/86850698/233697799-c17635e7-e947-419a-8978-b29cff73df40.png)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1szNTHq-HcnnXKjRyBeLwD-zsQrXT0BtZ/view?usp=share_link](https://drive.google.com/file/d/1szNTHq-HcnnXKjRyBeLwD-zsQrXT0BtZ/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1UUzIqtcvIHR_rB0H61B-uqSWHA18lUvm/view
 
 - ⚡ quote **look up to the stars not down at your feets**
 
